@@ -1,0 +1,1 @@
+Only use this folder if you are compiling on windows with MinGW!
