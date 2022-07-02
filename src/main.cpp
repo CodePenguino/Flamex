@@ -37,7 +37,6 @@ void update()
 {
 	Time::update();
 	Input::update_joysticks();
-	std::cout << Input::joystick[0].num_buttons << '\n';
 
 	window.set_background_color(0.0f, 0.5f, 0.5f);
 
