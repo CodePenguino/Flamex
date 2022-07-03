@@ -21,6 +21,7 @@ To run the program with visual studio correctly, you need to manually run the ap
 ```
 project_directory/bin/.../Flamex.exe
 ```
+This is because for Flamex to run properly, it needs to access files at runtime that visual studio fails to find in its default directory location.
 
 ### Visual Studio
 To compile with visual studio 2022, run the following command in a terminal
